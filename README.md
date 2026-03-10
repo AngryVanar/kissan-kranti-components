@@ -47,11 +47,7 @@ function App() {
 
 Interested in contributing? Please fork this repo, open a pull request, or discuss your ideas in the Issues tab.
 
-## License
 
-This repository is licensed under the MIT License.
-
----
 
 **For more information about the main project, visit:**  
 ➡️ [Kisan Kranti Main Project](https://github.com/AmaanNaseh/kisan-kranti)
